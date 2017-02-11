@@ -47,6 +47,52 @@
                 }
             ]
         },
+        "category": "购物",
+            "links": [
+                {
+                    "name": "京东",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://www.jd.com/"
+                },
+                {
+                    "name": "天猫",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://www.tmall.com/"
+                },
+                {
+                    "name": "淘宝",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://www.taobao.com/"
+                },
+                {
+                    "name": "亚马逊",
+                    "icon": "amazon yellow",
+                    "style": "basic",
+                    "url": "http://www.amazon.cn/"
+                },
+                {
+                    "name": "一号店",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://www.yhd.com/"
+                },
+                {
+                    "name": "当当",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://www.dangdang.com/"
+                },
+                {
+                    "name": "网易严选",
+                    "icon": "",
+                    "style": "basic",
+                    "url": "http://you.163.com/"
+                }
+            ]
+        },
         {
             "category": "工具",
             "links": [
